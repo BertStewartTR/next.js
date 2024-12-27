@@ -13,6 +13,10 @@ yarn create next-app --example with-docker nextjs-docker
 # or
 pnpm create next-app --example with-docker nextjs-docker
 ```
+Don't forget to install the packages by executing:
+```
+npm install
+```
 
 ## Using Docker
 
